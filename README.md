@@ -18,6 +18,6 @@ WARNING: If you are using the entirety of the data, training will take a long ti
 
 ### **Resources:**
 Inspiration came from the [PlaNet](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45488.pdf) and [TransGeo](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_TransGeo_Transformer_Is_All_You_Need_for_Cross-View_Image_Geo-Localization_CVPR_2022_paper.pdf) papers.\
-The Python [S2Sphere package](https://s2sphere.readthedocs.io/en/latest/){target="_blank"} was used extensively.
+The Python [S2Sphere package](https://s2sphere.readthedocs.io/en/latest/){:target="_blank"} was used extensively.
 
 Note: The best accuracy I received on test data was 37%. As such, this is not a final implementation/deliverable. I hope to improve and possibly morph this model in the future, and eventually want to train for more epochs as time and GPU resources were a constraint.
