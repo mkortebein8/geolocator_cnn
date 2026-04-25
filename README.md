@@ -21,3 +21,5 @@ Inspiration came from the [PlaNet](https://static.googleusercontent.com/media/re
 The Python [S2Sphere package](https://s2sphere.readthedocs.io/en/latest/) was used extensively.
 
 Note: The best accuracy I received on test data was 37%. As such, this is not a final implementation/deliverable. I hope to improve and possibly morph this model in the future, and eventually want to train for more epochs as time and GPU resources were a constraint.
+
+<a href="https://www.kaggle.com/datasets/habedi/large-dataset-of-geotagged-images/datam" target="_blank">Link Text</a>
