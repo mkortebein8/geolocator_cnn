@@ -1,8 +1,8 @@
 # Geolocation Convolutional Neural Network
 
-## GEOG 5545 (Geospatial + X) Project
+### GEOG 5545 (Geospatial + X) Project
 
-###Table of Contents
+### Table of Contents
 **Description**\
 **How to run**\
 **Resources**
