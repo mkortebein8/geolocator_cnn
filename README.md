@@ -26,7 +26,7 @@ Here is an example image:
 Using this image, I run it through the model and get a predicted class for which the image belongs to:
 <img width="171" height="43" alt="image" src="https://github.com/user-attachments/assets/4d194f47-2887-40d7-8c00-f3fb258f0bda" />
 
-The labelled class was 49, and the predicted class was 49. In this case the model guesses correctly.
+The labelled class was 49, and the predicted class was 49. In this case the model guesses correctly. Cell 49 is around Melbourne, Australia where this picture was taken.
 
 
 
