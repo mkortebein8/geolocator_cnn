@@ -16,6 +16,6 @@ My implementation utilizes S2 Cells to classify areas of the Earth; as such my s
 2. You are free to run the script as is, or change the parameters of the model.\
 WARNING: If you are using the entirety of the data, training will take a long time. A training loop of five epochs took me ~40 GPU hours on one NVIDIA A100 GPU with 40 GB VRAM.
 
-### **Resources:**\
+### **Resources:**
 Inspiration came from the [PlaNet](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45488.pdf) and [TransGeo](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_TransGeo_Transformer_Is_All_You_Need_for_Cross-View_Image_Geo-Localization_CVPR_2022_paper.pdf) papers.
 The Python [S2Sphere package](https://s2sphere.readthedocs.io/en/latest/) was used extensively.
