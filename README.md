@@ -29,8 +29,6 @@ Using this image, I run it through the model and get a predicted class for which
 
 The labelled class was 49, and the predicted class was 49. In this case the model guesses correctly. Cell 49 is around Melbourne, Australia where this picture was taken.
 
-
-
 ### **Resources:**
 Inspiration came from [PlaNet](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45488.pdf), [TransGeo](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_TransGeo_Transformer_Is_All_You_Need_for_Cross-View_Image_Geo-Localization_CVPR_2022_paper.pdf) and [Stanford](https://cs231n.stanford.edu/reports/2015/pdfs/CS231N_Final_Report_amanivp_jamesh93.pdf) papers.\
 The Python [S2Sphere package](https://s2sphere.readthedocs.io/en/latest/) was used extensively.
