@@ -19,7 +19,7 @@ WARNING: If you are using the entirety of the data, training will take a long ti
 ### **Discussion:**
 The best accuracy I received on test data was 37%. As such, this is not a final implementation/deliverable. I hope to improve and possibly morph this model in the future, and eventually want to train for more epochs as time and GPU resources were a constraint. With that being said, 37% is decent for a problem of this complexity.
 
-**Output example**
+**Output example**\
 Here is an example image:
 <img width="336" height="337" alt="image" src="https://github.com/user-attachments/assets/db1da373-d0b1-47ac-b1ad-fecb7bd07b3d" />
 
