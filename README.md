@@ -1,6 +1,9 @@
 # Geolocation Convolutional Neural Network
 GEOG 5545 (Geospatial + X) Project
 
+<img width="1215" height="744" alt="image" src="https://github.com/user-attachments/assets/66739293-d79f-4d05-9ab9-31a17243ed4f" />
+
+
 ### **Description:**
 In this project, I attempted to create a CNN which has the ability to guess the location of images taken on the ground (non-satellite). A significant inspiration was the game GeoGuessr, in which you are given a google streetview image and prompted to guess where the image is on Earth. I happen to not be very good at this game, and started wondering about how an AI might perform.
 
