@@ -1,7 +1,7 @@
 # Geolocation Convolutional Neural Network
 GEOG 5545 (Geospatial + X) Project
 
-<img width="1215" height="744" alt="image" src="https://github.com/user-attachments/assets/66739293-d79f-4d05-9ab9-31a17243ed4f" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/66739293-d79f-4d05-9ab9-31a17243ed4f" />
 
 
 ### **Description:**
