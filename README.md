@@ -17,7 +17,7 @@ My implementation utilizes S2 Cells to classify areas of the Earth. Image classi
 WARNING: If you are using the entirety of the data, training will take a long time. A training loop of five epochs took me ~40 GPU hours on one NVIDIA A100 GPU with 40 GB VRAM.
 
 ### **Discussion:**
-The best accuracy I received on test data was 37%. As such, this is not a final implementation/deliverable. I hope to improve and possibly morph this model in the future, and eventually want to train for more epochs as time and GPU resources were a constraint. With that being said, 37% is decent for a problem of this complexity.
+The best accuracy I received on test data was 37%. I hope to improve and possibly morph this model in the future, and eventually want to train for more epochs as time and GPU resources were a constraint. With that being said, 37% is decent for a problem of this complexity.
 
 **Output example**\
 Here is an example image:
